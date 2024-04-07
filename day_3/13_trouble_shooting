@@ -1,0 +1,7 @@
+
+#print(hdsjkadhasjk) #syntax error
+#print(25/0) #runtime error
+
+name="Ali"
+print("hello name") #semantic error
+print("Hello ",name)
